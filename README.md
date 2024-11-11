@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 
 - I’m working as a Software Engineer
-- I'm a Full Stack Ruby On Rails developer
-- I’m currently learning Machine Learning, Deep Learning
+- I'm a Full Stack developer
 - I'm interested in AI(Machine Learning,Deep Learning and NLP)
 - How to reach me: imbilal31@gmail.com
