@@ -8,10 +8,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🚀 Full Stack Developer passionate about building scalable web applications
-- 💡 Specializing in clean architecture, SaaS development, and performance optimization
-- 🛠️ Exploring DevOps workflows, automation, and cloud deployments
-- 🌱 Always learning and experimenting with new tools and frameworks
+- 🚀 Full Stack Developer passionate about building scalable web applications  
+- 💡 Specializing in clean architecture, SaaS development, and performance optimization  
+- 🛠️ Exploring DevOps workflows, automation, and cloud deployments  
+- 🌱 Always learning and experimenting with new tools and frameworks  
 - 🤝 Open to collaborations and exciting projects
 
 ---
